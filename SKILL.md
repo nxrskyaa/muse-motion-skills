@@ -5,7 +5,7 @@ description: Produce high-quality motion graphic explainer videos (9:16 reels) f
 
 # Motion Video Skill
 
-9:16 narrated reels. 1080x1920, 30fps, 45–75 seconds. Two visual styles, one workflow, zero paid APIs.
+9:16 narrated reels. 1080x1920, 30fps, 30–45 seconds. Two visual styles, one workflow, zero paid APIs.
 
 **Start here:** copy `template/` (cinematic) or `template-rpg/` (pixel quest) — never from blank.
 
@@ -13,7 +13,7 @@ description: Produce high-quality motion graphic explainer videos (9:16 reels) f
 
 - **No API keys.** Not for TTS, not for SFX, not for anything. If a researched repo demands a key ("vikey" or otherwise), route around it: local TTS, numpy/ffmpeg-synthesized audio, bundled fonts.
 - **Facts come from the source.** List every claim with its source before building. Never invent numbers.
-- **One promise, three points max.** 6–8 beats per video.
+- **One promise, three points max.** 4–5 beats per video.
 - **VO in English** unless the user says otherwise. Write it spoken: "fifty RLO", "rialo dot io" — never "DeFi", never abbreviations the voice will mangle.
 - **Anti-slop:** no linear easing, no opacity-only fades, no simultaneous entrances. Stagger everything. One hero color per frame. No generic gradients or particle soup. Every element earns its entrance; every cut is motivated.
 
