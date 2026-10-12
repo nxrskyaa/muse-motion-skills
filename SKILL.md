@@ -1,1 +1,102 @@
-LS0tCm5hbWU6IG1vdGlvbi12aWRlbwpkZXNjcmlwdGlvbjogUHJvZHVjZSBoaWdoLXF1YWxpdHkgbW90aW9uIGdyYXBoaWMgZXhwbGFpbmVyIHZpZGVvcyAoOToxNiByZWVscykgZnJvbSB3cml0dGVuIHJlZmVyZW5jZSBjb250ZW50IHVzaW5nIFJlbW90aW9uLiBUd28gc3R5bGVzOiBjaW5lbWF0aWMgbW90aW9uLWdyYXBoaWNzIGFuZCBwaXhlbC1hcnQgUlBHIHF1ZXN0IHZpZGVvcy4gQ292ZXJzIHN0b3J5IGV4dHJhY3Rpb24sIFZPLWZpcnN0IHRpbWluZywga2luZXRpYyB0eXBvZ3JhcGh5LCBzY2VuZSBzeXN0ZW1zLCBzb3VuZCBkZXNpZ24sIGFuZCByZW5kZXIuIE9wdGlvbmFsIE1hbmltR1ggZm9yIHRydWUtM0QgaW5zZXJ0cy4gVXNlIHdoZW4gdGhlIHVzZXIgYXNrcyBmb3IgYSBtb3Rpb24gZ3JhcGhpYyBvciBleHBsYWluZXIgdmlkZW8gZnJvbSBhIGJsb2cgcG9zdCwgYXJ0aWNsZSwgb3IgYW55IHJlZmVyZW5jZSBjb250ZW50LgotLS0KCiMgTW90aW9uIFZpZGVvIFNraWxsCgo5OjE2IG5hcnJhdGVkIHJlZWxzLiAxMDgweDE5MjAsIDMwZnBzLCA0NeKAkzc1IHNlY29uZHMuIFR3byB2aXN1YWwgc3R5bGVzLCBvbmUgd29ya2Zsb3csIHplcm8gcGFpZCBBUElzLgoKKipTdGFydCBoZXJlOioqIGNvcHkgYHRlbXBsYXRlL2AgKGNpbmVtYXRpYykgb3IgYHRlbXBsYXRlLXJwZy9gIChwaXhlbCBxdWVzdCkg4oCUIG5ldmVyIGZyb20gYmxhbmsuCgojIyAwLiBSdWxlcwoKLSAqKk5vIEFQSSBrZXlzLioqIE5vdCBmb3IgVFRTLCBub3QgZm9yIFNGWCwgbm90IGZvciBhbnl0aGluZy4gSWYgYSByZXNlYXJjaGVkIHJlcG8gZGVtYW5kcyBhIGtleSAoInZpa2V5IiBvciBvdGhlcndpc2UpLCByb3V0ZSBhcm91bmQgaXQ6IGxvY2FsIFRUUywgbnVtcHkvZmZtcGVnLXN5bnRoZXNpemVkIGF1ZGlvLCBidW5kbGVkIGZvbnRzLgotICoqRmFjdHMgY29tZSBmcm9tIHRoZSBzb3VyY2UuKiogTGlzdCBldmVyeSBjbGFpbSB3aXRoIGl0cyBzb3VyY2UgYmVmb3JlIGJ1aWxkaW5nLiBOZXZlciBpbnZlbnQgbnVtYmVycy4KLSAqKk9uZSBwcm9taXNlLCB0aHJlZSBwb2ludHMgbWF4LioqIDbigJM4IGJlYXRzIHBlciB2aWRlby4KLSAqKlZPIGluIEVuZ2xpc2gqKiB1bmxlc3MgdGhlIHVzZXIgc2F5cyBvdGhlcndpc2UuIFdyaXRlIGl0IHNwb2tlbjogImZpZnR5IFJMTyIsICJyaWFsbyBkb3QgaW8iIOKAlCBuZXZlciAiRGVGaSIsIG5ldmVyIGFiYnJldmlhdGlvbnMgdGhlIHZvaWNlIHdpbGwgbWFuZ2xlLgotICoqQW50aS1zbG9wOioqIG5vIGxpbmVhciBlYXNpbmcsIG5vIG9wYWNpdHktb25seSBmYWRlcywgbm8gc2ltdWx0YW5lb3VzIGVudHJhbmNlcy4gU3RhZ2dlciBldmVyeXRoaW5nLiBPbmUgaGVybyBjb2xvciBwZXIgZnJhbWUuIE5vIGdlbmVyaWMgZ3JhZGllbnRzIG9yIHBhcnRpY2xlIHNvdXAuIEV2ZXJ5IGVsZW1lbnQgZWFybnMgaXRzIGVudHJhbmNlOyBldmVyeSBjdXQgaXMgbW90aXZhdGVkLgoKIyMgMS4gU3RvcnkgYmVmb3JlIGNvZGUKCjEuIFJlYWQgdGhlIHJlZmVyZW5jZS4gUHVsbCBvdXQ6IGhvb2sgKG9uZSB1bmNvbWZvcnRhYmxlIHRydXRoKSwgcHJvYmxlbSwgbWVjaGFuaXNtLCBwYXlvZmYgKGNvbmNyZXRlIG91dGNvbWVzKSwgQ1RBLgoyLiBXcml0ZSB0aGUgVk8gc2NyaXB0LCB+MTQw4oCTMTUwIHdwbSwgc2hvcnQgc2VudGVuY2VzLgozLiBgdHRzIHNwZWFrIC0tdm9pY2UgYXZvY2Fkb192MjpNQUlfMDMgLS1vdXRwdXQgdm8vczEubXAzIC0tdGV4dCAiLi4uImAg4oCUIG9uZSBmaWxlIHBlciBiZWF0LCB0aGVuIGBmZnByb2JlYCBlYWNoIGR1cmF0aW9uLgo0LiBTY2VuZSBsZW5ndGggPSBgdm9EZWxheSArIHZvRnJhbWVzICsgdGFpbFBhZGAgKDMw4oCTNjBmKS4gYHZvRGVsYXlgID0gZnJhbWUgdGhlIGZpcnN0IHdvcmQgbGFuZHMuCgojIyAyLiBTdHlsZSBBIOKAlCBjaW5lbWF0aWMKClN0ZWFsIHRoZSBicmFuZCdzIHJlYWwgdG9rZW5zIGZyb20gdGhlaXIgc2l0ZSBDU1MgaW50byBgdGhlbWUudHNgIChiZywgdGV4dCwgYWNjZW50LCBib3JkZXJzKS4gQnVuZGxlIHRoZSBmb250cyAoYHNjcmlwdHMvZm9udHMuc2hgKS4KCkVhY2ggc2NlbmUgbmVlZHM6CgotICoqQSBiZXNwb2tlIG9iamVjdCwgbm90IGEgY2FyZC4qKiBCdWlsZCB0aGUgc3RvcnkncyB0aGluZzogYSBjb250cm9sIHJvb20sIGEgcmFkYXIsIGEgcGlwZWxpbmUsIGEgdmF1bHQsIGEgc3RlcHBlci4gQSBzY2VuZSB0aGF0J3Mgb25seSBraW5ldGljIHR5cGUgb24gYSBiYWNrZ3JvdW5kIGlzbid0IGZpbmlzaGVkLgotICoqQSBjYW1lcmEgcHVuY2ggb24gdGhlIGN1dCoqIChgUHVuY2hgIGluIGBjb21wb25lbnRzL2Z4LnRzeGApLiBTdGF0aWMgY2FtZXJhIHJlYWRzIGNoZWFwLgotICoqU2NyYW1ibGUgdGV4dCoqIGZvciBvbmNoYWluLWZsYXZvcmVkIGxpbmVzIOKAlCBkZXRlcm1pbmlzdGljIHNlZWQsIG5ldmVyIGBNYXRoLnJhbmRvbSgpYC4KLSAqKlR3byBzdGF0ZSBjb2xvcnMqKiAoaGVybyB2cyBkYW5nZXIpLiBTdGF0ZSBjaGFuZ2VzIHNob3cgaW4gY29sb3IsIG5vdCBqdXN0IHdvcmRzLgotICoqUGFuZWwgY2hyb21lKiogKGBQYW5lbGApOiBoYWlybGluZSBib3JkZXIsIG1vbm8gaGVhZGVyIHJvdyB3aXRoIGEgbGl2ZSBzdGF0dXMuCi0gKipBIGtpY2tlcioqOiBgMDAxIOKAlCBUSEUgUFJPQkxFTWAuCi0gKipFeGl0IGNob3Jlb2dyYXBoeSoqIChgU2NlbmVTaGVsbGApOiBsYXN0IDEyIGZyYW1lcyBzY2FsZSB1cCwgbGlmdCwgYmx1ciwgZmFkZS4gRW50cmFuY2VzIGFyZSBgUHVuY2hgICsgcmlzZSArIGRlYmx1ci4KCkN1dHM6IGBXaGlwYCBvdmVybGF5IG9uIGV2ZXJ5IGJvdW5kYXJ5ICgyMCBmcmFtZXMsIHRoZSBjdXQgbGFuZHMgYXQgbG9jYWwgZnJhbWUgOCkuIFNvdW5kOiBgcmlzZXIubXAzYCBzdGFydHMgfjFzIGJlZm9yZSB0aGUgY3V0LCBgd2hvb3NoYCBsYW5kcyBvbiBpdCwgYGltcGFjdC5tcDNgIGhpdHMgd2hlbiB0aGUgaGVhZGxpbmUgbGFuZHMsIGB0aHVtcC5tcDNgIG9uIHNsYW0gbW9tZW50cy4gQWxsIGluIGBzY3JpcHRzL3NmeC5weWAuIEJlZCAxOOKAkzIwIGRCIHVuZGVyIHRoZSBWTyAo4omIIOKIkjM4IExVRlMsIGVidXIxMjgtdmVyaWZpZWQpLiBFdmVyeSBTRlggbGFuZHMgMOKAkzIgZnJhbWVzICpiZWZvcmUqIGl0cyB2aXN1YWwg4oCUIG5ldmVyIGFmdGVyLgoKIyMgMy4gU3R5bGUgQiDigJQgcGl4ZWwtYXJ0IFJQRyBxdWVzdAoKVGhlIGV4cGxhaW5lciBiZWNvbWVzIGEgcXVlc3QuIFRoZSB2aWV3ZXIgaXMgdGhlIHBsYXllcjsgZmFjdHMgYXJyaXZlIGFzIGdhbWUgZXZlbnRzOiBkaWFsb2d1ZSwgcXVlc3QgbG9nLCBjaGVja2xpc3RzLCByZXdhcmRzLgoKKipTeXN0ZW1zKiogKGB0ZW1wbGF0ZS1ycGcvc3JjL2NvbXBvbmVudHMvcnBnLnRzeGApOgoKLSBgRGlhbG9ndWVCb3hgIOKAlCBuYW1lIHBsYXRlLCBwb3J0cmFpdCwgdHlwZXdyaXRlciAofjEuMSBjaGFycy9mcmFtZSksIGtleXdvcmQgaGlnaGxpZ2h0cywgYmxpbmtpbmcg4pa8LiBDaGlwdHVuZSBibGlwIGV2ZXJ5IH4xNCBmcmFtZXMgd2hpbGUgdHlwaW5nLgotIGBRdWVzdFBhbmVsYCDigJQgcXVlc3QgbG9nOyBjaGVja2xpc3QgaXRlbXMgdGljayBpbiBvbmUgYnkgb25lICsgZmFuZmFyZS4KLSBgSHVkYCDigJQgY29pbiBjb3VudCArIGRheSBjb3VudGVyLiBBZHZhbmNlIHRoZSBkYXlzIGFzIHRoZSBxdWVzdCBtb3Zlcy4KLSBgVGl0bGVDYXJkYCwgYEVtb3RlYCAoPy8hKSwgYFdhbGtlcmAvYE5wY2AvYFB4YCDigJQgYWx3YXlzIGBpbWFnZS1yZW5kZXJpbmc6IHBpeGVsYXRlZGAuCi0gYEdyb3VuZGAvYGdyYXNzTWFwYCDigJQgdGlsZWFibGUgdGVycmFpbi4KCioqU3ByaXRlcyoqIChgc2NyaXB0cy9nZW5fc3ByaXRlcy5weWApOiBwbGF5ZXIgKGZyb250L2JhY2svc2lkZSwgMi1mcmFtZSB3YWxrKSwgTlBDcywgdGlsZXMsIHRyZWVzLCBidWlsZGluZ3MsIHBvcnRyYWl0cyDigJQgYWxsIGhhbmQtZHJhd24gUElMIHN0cmluZyBtYXBzLiBFeHRlbmQgdGhlIG1hcHMsIHJlbmRlciBhIGNvbnRhY3Qgc2hlZXQsIGxvb2sgYXQgaXQgYmVmb3JlIGJ1aWxkaW5nIHNjZW5lcy4KCioqQXVkaW8qKiAoYHNjcmlwdHMvY2hpcHR1bmUucHlgKTogYmxpcCwgY29pbiwgZmFuZmFyZSwgc3RhbXAsIGFuIDgtc2Vjb25kIG11c2ljIGxvb3AuICoqTWl4IGJ5IG1lYXN1cmVkIGxvdWRuZXNzLCBuZXZlciBieSBndWVzc2VkIHZvbHVtZToqKiBgbG91ZG5vcm1gIFZPIHN0ZW1zIHRvIOKIkjE5IExVRlMgKHRydWUgcGVhayDiiJIxLjUpLCBzaXQgdGhlIG11c2ljIGJlZCAxOOKAkzIwIGRCIHVuZGVyIHRoZSBWTyAo4omIIOKIkjM4IExVRlMpLCB0aGVuIHZlcmlmeSBvbiB0aGUgcmVuZGVyIHdpdGggYGZmbXBlZyAtYWYgZWJ1cjEyOGAg4oCUIG1lYXN1cmUgb25lIFZPIHNlZ21lbnQgYW5kIG9uZSBtdXNpYy1vbmx5IGdhcC4gVFRTIG91dHB1dCBpcyBvZnRlbiB3aGlzcGVyLXF1aWV0OyBhICJsb3ciIHZvbHVtZSBudW1iZXIgb24gYSBob3Qgc3RlbSBzdGlsbCBidXJpZXMgdGhlIHZvaWNlLgoKKipCZWF0IG1hcDoqKiBUaXRsZUNhcmQg4oaSIGNoYXJhY3RlciBhY3Rpbmcg4oaSIGRpYWxvZ3VlIOKGkiBwYXlvZmYgYmFubmVyLiBCZXR3ZWVuIGFyZWFzOiB3aGl0ZSBmbGFzaCArIG5ldyBUaXRsZUNhcmQuCgojIyA0LiBNYW5pbUdYIOKAlCAzRCBpbnNlcnRzIG9ubHkKCk1hbmltR1ggKFJ1c3Qvd2dwdSwgTWFuaW0tc3R5bGUgUHl0aG9uIEFQSSkgZG9lcyByZWFsIDNEIHdpdGggUEJSIGxpZ2h0aW5nIOKAlCB0aGUgb25lIHRoaW5nIFJlbW90aW9uIGNhbid0LiBVc2UgaXQgdG8gcmVuZGVyIHNob3J0IGhlcm8gbW9tZW50cyAoM+KAkzZzOiBpbnRyb3MsIGxvZ28gcmV2ZWFscyksIHRoZW4gY29tcG9zaXRlIHRoZSBNUDQgaW50byBSZW1vdGlvbiB3aXRoIGA8T2ZmdGhyZWFkVmlkZW8+YC4gRG9uJ3QgcmVidWlsZCB3aG9sZSB2aWRlb3MgaW4gaXQuCgpgdXZ4IC0tcHl0aG9uIDMuMTQgbWFuaW1neCByZW5kZXIgLXFtIC0tZm9ybWF0IG1wNCBzY2VuZS5weWAgKG5lZWRzIFB5dGhvbiAzLjEzLzMuMTQ7IENQVSBmYWxsYmFjayB3b3Jrcywgbm8gR1BVIG5lZWRlZCkuIFNldCBgY29uZmlnLnBpeGVsX3dpZHRoL2hlaWdodGAgZm9yIDEwODB4MTkyMC4KCkhvbmVzdCBudW1iZXJzLCBtZWFzdXJlZCBvbiBhIENQVS1vbmx5IGJveDogfjI1IHNlY29uZHMgb2YgcmVuZGVyIHBlciAxIHNlY29uZCBvZiAxMDgweDE5MjAgM0QuIFRoZSB3aW4gaXMgY2FwYWJpbGl0eSwgbm90IHNwZWVkIOKAlCBrZWVwIGluc2VydHMgc2hvcnQgYW5kIHJlbmRlciBvbmNlLgoKIyMgNS4gTGF5b3V0CgpgYGAKc3JjL2luZGV4LnRzICAgICAgICByZWdpc3RlclJvb3QKc3JjL1Jvb3QudHN4ICAgICAgICBDb21wb3NpdGlvbiAoMTA4MHgxOTIwLCAzMGZwcykgKyBGb250RmFjZXMKc3JjL1ZpZGVvLnRzeCAgICAgICBTQ0VORVMgdGFibGUgW3tkdXIsIHZvRGVsYXksIENvbXAsIHZvfV0gKyBWTyArIFNGWCBtYXAgKyBiZWQKc3JjL3RoZW1lLnRzICAgICAgICB0b2tlbnMKc3JjL2NvbXBvbmVudHMvICAgIEJhY2tncm91bmQsIEtpbmV0aWMsIGZ4ICAoQSkgIHwgIHJwZy50c3ggIChCKQpzcmMvc2NlbmVzLyAgICAgICAgIG9uZSBmaWxlIHBlciAx4oCTMiBzY2VuZXMKcHVibGljL3ZvLyAgICAgICAgICBzMS4uc04ubXAzICsgc2Z4IG1wM3MKcHVibGljL2ZvbnRzLyAgICAgICB2aWEgc2NyaXB0cy9mb250cy5zaCDigJQgbmV2ZXIgY29tbWl0IGJpbmFyaWVzCnNjcmlwdHMvICAgICAgICAgICAgc2Z4LnB5IHwgY2hpcHR1bmUucHksIHZvLnNoLCBnZW5fc3ByaXRlcy5weSwgZm9udHMuc2gKYGBgCgojIyA2LiBSZW5kZXIKCmBgYGJhc2gKbnBtIGluc3RhbGwKbnB4IHJlbW90aW9uIHN0aWxsIHNyYy9pbmRleC50cyA8SWQ+IC90bXAvczEucG5nIC0tZnJhbWUgPEY+ICAgIyBldmVyeSBzY2VuZSwgYmVmb3JlIGZ1bGwgcmVuZGVyClRNUERJUj1+L3dvcmtzcGFjZS8udG1wIG5weCByZW1vdGlvbiByZW5kZXIgc3JjL2luZGV4LnRzIDxJZD4gXAogIH4vd29ya3NwYWNlL3lvdXJfZmlsZXMvPG5hbWU+Lm1wNCAtLWNvbmN1cnJlbmN5PTIgLS1jb2RlYz1oMjY0IC0tY3JmIDE3CmBgYAoKU3RpbGxzIGZpcnN0LCBhbHdheXM6IGxvb2sgYXQgZWFjaCBvbmUsIGZpeCwgcmUtcmVuZGVyLiBUZXh0IG5ldmVyIHRvdWNoZXMgZWRnZXMuIE5vdGhpbmcgYXBwZWFycyB3aXRob3V0IGFuIGVudHJhbmNlLiBWTyBhbmQgdGV4dCByb3VnaGx5IGluIHN5bmMuIENyaXRpY2FsIGNvbnRlbnQgaW5zaWRlIHRoZSBtaWRkbGUgNzUlIHZlcnRpY2FsbHkuIE11c2ljIG5ldmVyIGRyb3ducyBWTy4KCiMjIDcuIEJlZm9yZSB5b3UgaGFuZCBpdCBvdmVyCgotIFsgXSBFdmVyeSBzY2VuZSBjaGVja2VkIGFzIGEgc3RpbGwKLSBbIF0gVk8gbWVhc3VyZWQ7IHRhaWxzIGhhdmUgYnJlYXRoaW5nIHJvb20KLSBbIF0gRXZlcnkgc2NlbmUgaGFzIGl0cyBvYmplY3QgKEEpIG9yIGl0cyBxdWVzdCBldmVudCAoQikKLSBbIF0gTm8gcGxhaW4gY3V0cyDigJQgd2hpcC9mbGFzaCArIFNGWCBvbiBhbGwgb2YgdGhlbQotIFsgXSBObyBmcm96ZW4gaG9sZHMg4oCUIHNvbWV0aGluZyBtb3ZlcyBpbiBldmVyeSBzZWNvbmQKLSBbIF0gVk8gYXQg4oiSMTkgTFVGUzsgYmVkIDE44oCTMjAgZEIgdW5kZXIgKGVidXIxMjgtdmVyaWZpZWQpOyBTRlggb24gdGhlIGhpdHMKLSBbIF0gYGZmcHJvYmVgOiB2aWRlbyArIGF1ZGlvLCBkdXJhdGlvbiBhcyBleHBlY3RlZAo=
+---
+name: motion-video
+description: Produce high-quality motion graphic explainer videos (9:16 reels) from written reference content using Remotion. Two styles: cinematic motion-graphics and pixel-art RPG quest videos. Covers story extraction, VO-first timing, kinetic typography, scene systems, sound design, and render. Optional ManimGX for true-3D inserts. Use when the user asks for a motion graphic or explainer video from a blog post, article, or any reference content.
+---
+
+# Motion Video Skill
+
+9:16 narrated reels. 1080x1920, 30fps, 45–75 seconds. Two visual styles, one workflow, zero paid APIs.
+
+**Start here:** copy `template/` (cinematic) or `template-rpg/` (pixel quest) — never from blank.
+
+## 0. Rules
+
+- **No API keys.** Not for TTS, not for SFX, not for anything. If a researched repo demands a key ("vikey" or otherwise), route around it: local TTS, numpy/ffmpeg-synthesized audio, bundled fonts.
+- **Facts come from the source.** List every claim with its source before building. Never invent numbers.
+- **One promise, three points max.** 6–8 beats per video.
+- **VO in English** unless the user says otherwise. Write it spoken: "fifty RLO", "rialo dot io" — never "DeFi", never abbreviations the voice will mangle.
+- **Anti-slop:** no linear easing, no opacity-only fades, no simultaneous entrances. Stagger everything. One hero color per frame. No generic gradients or particle soup. Every element earns its entrance; every cut is motivated.
+
+## 1. Story before code
+
+1. Read the reference. Pull out: hook (one uncomfortable truth), problem, mechanism, payoff (concrete outcomes), CTA.
+2. Write the VO script, ~140–150 wpm, short sentences.
+3. `tts speak --voice avocado_v2:MAI_03 --output vo/s1.mp3 --text "..."` — one file per beat, then `ffprobe` each duration.
+4. Scene length = `voDelay + voFrames + tailPad` (30–60f). `voDelay` = frame the first word lands.
+
+## 2. Style A — cinematic
+
+Steal the brand's real tokens from their site CSS into `theme.ts` (bg, text, accent, borders). Bundle the fonts (`scripts/fonts.sh`).
+
+Each scene needs:
+
+- **A bespoke object, not a card.** Build the story's thing: a control room, a radar, a pipeline, a vault, a stepper. A scene that's only kinetic type on a background isn't finished.
+- **A camera punch on the cut** (`Punch` in `components/fx.tsx`). Static camera reads cheap.
+- **Scramble text** for onchain-flavored lines — deterministic seed, never `Math.random()`.
+- **Two state colors** (hero vs danger). State changes show in color, not just words.
+- **Panel chrome** (`Panel`): hairline border, mono header row with a live status.
+- **A kicker**: `001 — THE PROBLEM`.
+- **Exit choreography** (`SceneShell`): last 12 frames scale up, lift, blur, fade. Entrances are `Punch` + rise + deblur.
+
+Cuts: `Whip` overlay on every boundary (20 frames, the cut lands at local frame 8). Sound: `riser.mp3` starts ~1s before the cut, `whoosh` lands on it, `impact.mp3` hits when the headline lands, `thump.mp3` on slam moments. All in `scripts/sfx.py`. Bed 18–20 dB under the VO (≈ −38 LUFS, ebur128-verified). Every SFX lands 0–2 frames *before* its visual — never after.
+
+## 3. Style B — pixel-art RPG quest
+
+The explainer becomes a quest. The viewer is the player; facts arrive as game events: dialogue, quest log, checklists, rewards.
+
+**Systems** (`template-rpg/src/components/rpg.tsx`):
+
+- `DialogueBox` — name plate, portrait, typewriter (~1.1 chars/frame), keyword highlights, blinking ▼. Chiptune blip every ~14 frames while typing.
+- `QuestPanel` — quest log; checklist items tick in one by one + fanfare.
+- `Hud` — coin count + day counter. Advance the days as the quest moves.
+- `TitleCard`, `Emote` (?/!), `Walker`/`Npc`/`Px` — always `image-rendering: pixelated`.
+- `Ground`/`grassMap` — tileable terrain.
+
+**Sprites** (`scripts/gen_sprites.py`): player (front/back/side, 2-frame walk), NPCs, tiles, trees, buildings, portraits — all hand-drawn PIL string maps. Extend the maps, render a contact sheet, look at it before building scenes.
+
+**Audio** (`scripts/chiptune.py`): blip, coin, fanfare, stamp, an 8-second music loop. **Mix by measured loudness, never by guessed volume:** `loudnorm` VO stems to −19 LUFS (true peak −1.5), sit the music bed 18–20 dB under the VO (≈ −38 LUFS), then verify on the render with `ffmpeg -af ebur128` — measure one VO segment and one music-only gap. TTS output is often whisper-quiet; a "low" volume number on a hot stem still buries the voice.
+
+**Beat map:** TitleCard → character acting → dialogue → payoff banner. Between areas: white flash + new TitleCard.
+
+## 4. ManimGX — 3D inserts only
+
+ManimGX (Rust/wgpu, Manim-style Python API) does real 3D with PBR lighting — the one thing Remotion can't. Use it to render short hero moments (3–6s: intros, logo reveals), then composite the MP4 into Remotion with `<OffthreadVideo>`. Don't rebuild whole videos in it.
+
+`uvx --python 3.14 manimgx render -qm --format mp4 scene.py` (needs Python 3.13/3.14; CPU fallback works, no GPU needed). Set `config.pixel_width/height` for 1080x1920.
+
+Honest numbers, measured on a CPU-only box: ~25 seconds of render per 1 second of 1080x1920 3D. The win is capability, not speed — keep inserts short and render once.
+
+## 5. Layout
+
+```
+src/index.ts        registerRoot
+src/Root.tsx        Composition (1080x1920, 30fps) + FontFaces
+src/Video.tsx       SCENES table [{dur, voDelay, Comp, vo}] + VO + SFX map + bed
+src/theme.ts        tokens
+src/components/    Background, Kinetic, fx  (A)  |  rpg.tsx  (B)
+src/scenes/         one file per 1–2 scenes
+public/vo/          s1..sN.mp3 + sfx mp3s
+public/fonts/       via scripts/fonts.sh — never commit binaries
+scripts/            sfx.py | chiptune.py, vo.sh, gen_sprites.py, fonts.sh
+```
+
+## 6. Render
+
+```bash
+npm install
+npx remotion still src/index.ts <Id> /tmp/s1.png --frame <F>   # every scene, before full render
+TMPDIR=~/workspace/.tmp npx remotion render src/index.ts <Id> \
+  ~/workspace/your_files/<name>.mp4 --concurrency=2 --codec=h264 --crf 17
+```
+
+Stills first, always: look at each one, fix, re-render. Text never touches edges. Nothing appears without an entrance. VO and text roughly in sync. Critical content inside the middle 75% vertically. Music never drowns VO.
+
+## 7. Before you hand it over
+
+- [ ] Every scene checked as a still
+- [ ] VO measured; tails have breathing room
+- [ ] Every scene has its object (A) or its quest event (B)
+- [ ] No plain cuts — whip/flash + SFX on all of them
+- [ ] No frozen holds — something moves in every second
+- [ ] VO at −19 LUFS; bed 18–20 dB under (ebur128-verified); SFX on the hits
+- [ ] `ffprobe`: video + audio, duration as expected
