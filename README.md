@@ -1,1 +1,50 @@
-IyBtdXNlLW1vdGlvbi1za2lsbHMKCkEgc2tpbGwgcGFja2FnZSB0aGF0IHRlYWNoZXMgYW4gQUkgYWdlbnQgdG8gbWFrZSA5OjE2IG1vdGlvbi1ncmFwaGljIGV4cGxhaW5lciB2aWRlb3Mg4oCUIG5hcnJhdGVkLCBraW5ldGljLCBubyBBSSBzbG9wLiBUd28gc3R5bGVzLCBvbmUgd29ya2Zsb3csIHplcm8gcGFpZCBBUElzLgoKIyMgVGhlIHR3byBzdHlsZXMKCioqQ2luZW1hdGljKiogKGB0ZW1wbGF0ZS9gKSDigJQga2luZXRpYyB0eXBvZ3JhcGh5LCBiZXNwb2tlIGluLXdvcmxkIG9iamVjdHMsIGNhbWVyYSBwdW5jaGVzLCB3aGlwIHRyYW5zaXRpb25zLCBzeW50aGVzaXplZCBTRlguIEZvciBwcm9kdWN0IGV4cGxhaW5lcnMgYW5kIG5hcnJhdGl2ZXMuCgoqKlBpeGVsLWFydCBSUEcgcXVlc3QqKiAoYHRlbXBsYXRlLXJwZy9gKSDigJQgdGhlIGV4cGxhaW5lciBhcyBhIHBsYXlhYmxlIHF1ZXN0OiBkaWFsb2d1ZSBib3hlcywgdHlwZXdyaXRlciB0ZXh0LCBxdWVzdCBsb2csIEhVRCwgY2hpcHR1bmUgc291bmR0cmFjay4gRm9yIGFueXRoaW5nIHRoYXQgY2FuIGJlIGZyYW1lZCBhcyBhIG1pc3Npb24uCgojIyBGb3IgeW91ciBhZ2VudAoKR2l2ZSB5b3VyIGFnZW50IHRoaXMgcHJvbXB0OgoKPiBSZWFkIGBTS0lMTC5tZGAgaW4gbnhyc2t5YWEvbXVzZS1tb3Rpb24tc2tpbGxzLCB0aGVuIG1ha2UgYSA5OjE2IGV4cGxhaW5lciBhYm91dCBbdG9waWNdIGZyb20gW3NvdXJjZV0gaW4gdGhlIFtjaW5lbWF0aWMgfCBwaXhlbC1ycGddIHN0eWxlLgoKVGhlIGFnZW50IGV4dHJhY3RzIHRoZSBzdG9yeSwgd3JpdGVzIGFuZCB2b2ljZXMgdGhlIHNjcmlwdCwgYnVpbGRzIHNjZW5lcyBmcm9tIHRoZSB0ZW1wbGF0ZSwgbWl4ZXMgU0ZYLCByZW5kZXJzLCBjaGVja3Mgc3RpbGxzLCBhbmQgaGFuZHMgeW91IHRoZSBNUDQuCgojIyBXaGF0J3MgaW5zaWRlCgp8IFBhdGggfCBDb250ZW50cyB8CnwgLS0tLSB8IC0tLS0tLS0tIHwKfCBgU0tJTEwubWRgIHwgVGhlIHBsYXlib29rOiBzdG9yeSBleHRyYWN0aW9uLCBWTy1maXJzdCB0aW1pbmcsIHNjZW5lIHN5c3RlbXMsIHNvdW5kIGRlc2lnbiwgcmVuZGVyIGNoZWNrbGlzdCB8CnwgYHRlbXBsYXRlL2AgfCBDaW5lbWF0aWMgc3RhcnRlciDigJQgUmVtb3Rpb24gKyBSZWFjdCArIFR5cGVTY3JpcHQgfAp8IGB0ZW1wbGF0ZS1ycGcvYCB8IFBpeGVsLVJQRyBzdGFydGVyIOKAlCBoYW5kLWRyYXduIHNwcml0ZXMgYW5kIGNoaXB0dW5lIGluY2x1ZGVkIHwKCiMjIFRyeSBpdAoKYGBgYmFzaApjZCB0ZW1wbGF0ZSAgICAgICAgICAjIG9yIHRlbXBsYXRlLXJwZwpucG0gaW5zdGFsbAouL3NjcmlwdHMvZm9udHMuc2ggICAgICAgICAgICAjIGRvd25sb2FkcyB0aGUgYnVuZGxlZCBmb250cwpweXRob24zIHNjcmlwdHMvc2Z4LnB5ICAgICAgICAjIHN5bnRoZXNpemUgZXZlcnkgU0ZYIChudW1weSArIGZmbXBlZywgbm8gQVBJcykKCiMgd3JpdGUgc2NyaXB0cy9zY3JpcHQudHh0IGFzIElEfHRleHQgbGluZXMsIHRoZW46Ci4vc2NyaXB0cy92by5zaCAgICAgICAgICAgICAgICMgbmVlZHMgYSBgdHRzYCBDTEkgKHNlZSBiZWxvdykKCm5weCByZW1vdGlvbiBzdGlsbCBzcmMvaW5kZXgudHMgVmlkZW8gL3RtcC9jaGVjay5wbmcgLS1mcmFtZSAxMDAKbnB4IHJlbW90aW9uIHJlbmRlciBzcmMvaW5kZXgudHMgVmlkZW8gb3V0Lm1wNCAtLWNvbmN1cnJlbmN5PTIgLS1jb2RlYz1oMjY0IC0tY3JmIDE3CmBgYAoKIyMgUmVxdWlyZW1lbnRzCgotIE5vZGUgMTgrLCBmZm1wZWcsIFB5dGhvbiAzCi0gQSBgdHRzYCBjb21tYW5kIHdpdGggdGhpcyBpbnRlcmZhY2U6IGB0dHMgc3BlYWsgLS12b2ljZSA8aWQ+IC0tb3V0cHV0IDxmaWxlPiAtLXRleHQgPHRleHQ+YCAoYnVpbHQgYWdhaW5zdCB0aGUgSGF0Y2ggYHR0c2Agc2tpbGwg4oCUIHN3YXAgaW4gYW55IGVxdWl2YWxlbnQpCi0gTm90aGluZyBlbHNlLiBObyBBUEkga2V5cy4KCiMjIExpY2Vuc2UKCk1JVCDigJQgc2VlIFtMSUNFTlNFXShMSUNFTlNFKS4K
+# muse-motion-skills
+
+A skill package that teaches an AI agent to make 9:16 motion-graphic explainer videos — narrated, kinetic, no AI slop. Two styles, one workflow, zero paid APIs.
+
+## The two styles
+
+**Cinematic** (`template/`) — kinetic typography, bespoke in-world objects, camera punches, whip transitions, synthesized SFX. For product explainers and narratives.
+
+**Pixel-art RPG quest** (`template-rpg/`) — the explainer as a playable quest: dialogue boxes, typewriter text, quest log, HUD, chiptune soundtrack. For anything that can be framed as a mission.
+
+## For your agent
+
+Give your agent this prompt:
+
+> Read `SKILL.md` in nxrskyaa/muse-motion-skills, then make a 9:16 explainer about [topic] from [source] in the [cinematic | pixel-rpg] style.
+
+The agent extracts the story, writes and voices the script, builds scenes from the template, mixes SFX, renders, checks stills, and hands you the MP4.
+
+## What's inside
+
+| Path | Contents |
+| ---- | -------- |
+| `SKILL.md` | The playbook: story extraction, VO-first timing, scene systems, sound design, render checklist |
+| `template/` | Cinematic starter — Remotion + React + TypeScript |
+| `template-rpg/` | Pixel-RPG starter — hand-drawn sprites and chiptune included |
+
+## Try it
+
+```bash
+cd template          # or template-rpg
+npm install
+./scripts/fonts.sh            # downloads the bundled fonts
+python3 scripts/sfx.py        # synthesize every SFX (numpy + ffmpeg, no APIs)
+
+# write scripts/script.txt as ID|text lines, then:
+./scripts/vo.sh               # needs a `tts` CLI (see below)
+
+npx remotion still src/index.ts Video /tmp/check.png --frame 100
+npx remotion render src/index.ts Video out.mp4 --concurrency=2 --codec=h264 --crf 17
+```
+
+## Requirements
+
+- Node 18+, ffmpeg, Python 3
+- A `tts` command with this interface: `tts speak --voice <id> --output <file> --text <text>` (built against the Hatch `tts` skill — swap in any equivalent)
+- Nothing else. No API keys.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
