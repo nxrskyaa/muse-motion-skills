@@ -17,6 +17,18 @@ description: Produce high-quality motion graphic explainer videos (9:16 reels) f
 - **VO in English** unless the user says otherwise. Write it spoken: "fifty RLO", "rialo dot io" — never "DeFi", never abbreviations the voice will mangle.
 - **Anti-slop:** no linear easing, no opacity-only fades, no simultaneous entrances. Stagger everything. One hero color per frame. No generic gradients or particle soup. Every element earns its entrance; every cut is motivated.
 
+## 0b. Art direction — every video gets its own look
+
+Generic is the default; taste is the deliverable. Never ship two videos in a row with the same visual identity.
+
+Commit to an opinionated art direction BEFORE building scenes:
+- **Palette with a point of view** — light paper + ink, warm monochrome, duotone, blueprint, newsprint… dark-neon-tech is banned unless the brand demands it.
+- **Typography with character** — serif, mono, grotesk, condensed; never the same hero pairing as the previous video. Display type should be recognizable from a thumbnail.
+- **Texture** — paper grain, ink bleed, halftone, scanlines, noise. Flat digital gradients are slop.
+- **Dimensionality** — at least one real 3D or 2.5D moment per video (three.js / ManimGX insert / extruded geometry). Flat cards floating on a gradient is the look we're escaping.
+
+**Look-dev first:** render 2–3 style frames (single stills in different directions), pick one, then build. The bar: a stranger should tell this video apart from yesterday's from a single still frame.
+
 ## 1. Story before code
 
 1. Read the reference. Pull out: hook (one uncomfortable truth), problem, mechanism, payoff (concrete outcomes), CTA.
