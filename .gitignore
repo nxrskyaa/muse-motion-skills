@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+out/
+*.mp4
+*.mov
+*.webm
+
+# Remotion
+.remotion/
+
+# Audio work files (regenerate with scripts/)
+public/vo/
+public/sfx/
+*.wav
+
+# Fonts are bundled per-project; ignore OS caches
+.fonts-cache/
+
+# Env & secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+npm-debug.log*
